@@ -1,0 +1,25 @@
+name: twitter_ui
+description: A simple Flutter project (roughly) replicating Twitter's main screen UI.
+version: 1.0.0+1
+authors: James Leahy <defuncart@gmail.com>
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # used to generate random words (as user names)
+  english_words: ^3.1.0
+  # used to generate random sentences (tweet contents)
+  flutter_lorem: ^1.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  # app is rendered using the material design
+  uses-material-design: true
