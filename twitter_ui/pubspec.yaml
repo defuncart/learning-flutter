@@ -4,7 +4,7 @@ version: 1.0.0+1
 authors: James Leahy <defuncart@gmail.com>
 
 environment:
-  sdk: ">=2.1.0 <3.0.0"
+  sdk: ">=2.2.0 <3.0.0"
 
 dependencies:
   flutter:
@@ -20,6 +20,5 @@ dev_dependencies:
     sdk: flutter
 
 flutter:
-
   # app is rendered using the material design
   uses-material-design: true

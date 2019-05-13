@@ -1,4 +1,4 @@
-# Hello World
+# hello_world
 
 A simple *Hello World* project based on *Flutter*'s *Write your first Flutter app* tutorial.
 

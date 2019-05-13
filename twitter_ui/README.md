@@ -1,4 +1,4 @@
-# Twitter UI
+# twitter_ui
 
 A simple Flutter project (roughly) replicating Twitter's main screen UI.
 
