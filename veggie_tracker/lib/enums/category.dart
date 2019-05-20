@@ -1,0 +1,21 @@
+/// An enum representing the types of categories
+enum Category {
+  allium,
+  berry,
+  citrus,
+  cruciferous,
+  fern,
+  flower,
+  fruit,
+  fungus,
+  gourd,
+  leafy,
+  legume,
+  melon,
+  root,
+  stealthFruit,
+  stoneFruit,
+  tropical,
+  tuber,
+  vegetable,
+}

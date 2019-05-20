@@ -1,0 +1,31 @@
+name: veggie_tracker
+description: A simple Flutter project which tracks veggies eaten.
+version: 1.0.0+1
+author: James Leahy <defuncart@gmail.com>
+
+environment:
+  sdk: ">=2.3.0-dev.0.5 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # Using cupertino on iOS
+  cupertino_icons: ^0.1.2
+  # Provider
+  provider: ^2.0.0
+  # To determine device paths
+  path_provider: ^1.0.0
+  # 
+  intl: ^0.15.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# The following section is specific to Flutter.
+flutter:
+  # Using material on Android
+  uses-material-design: true
+  # Assets used
+  assets:
+   - assets/images/
