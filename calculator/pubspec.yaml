@@ -1,0 +1,19 @@
+name: calculator
+description: A simple calculator build in Flutter.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.2.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  math_expressions: ^1.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  # Rendered uses material design
+  uses-material-design: true
