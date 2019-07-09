@@ -1,0 +1,24 @@
+name: qr_scanner
+description: A simple QR code scanning app built in Flutter.
+version: 1.0.0+1
+author: James Leahy <defuncart@gmail.com>
+
+environment:
+  sdk: ">=2.3.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # render iOS style icons and font
+  cupertino_icons: ^0.1.2
+  # to scan qr codes
+  qr_utils: ^0.1.4
+  # to launch a url
+  url_launcher: ^5.0.3
+
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  # uses-material-design: true

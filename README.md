@@ -4,6 +4,9 @@ A collection of quick projects I've completed while learning Flutter.
 
 <table>
     <tr>
+        <td align=center><a href="qr_scanner"><img src="qr_scanner/screenshots/01.gif" /></br>qr_scanner</a></td>
+    </tr>
+    <tr>
         <td align=center><a href="notes"><img src="notes/screenshots/01.gif" /></br>notes</a></td>
         <td align=center><a href="calculator"><img src="calculator/screenshots/01.gif" /></br>calculator</a></td>
     </tr>
