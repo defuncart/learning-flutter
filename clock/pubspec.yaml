@@ -1,0 +1,17 @@
+name: clock
+description: A simple clock built using Flutter.
+version: 1.0.0+1
+author: James Leahy <defuncart@gmail.com>
+
+environment:
+  sdk: ">=2.3.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # an analog clock
+  analog_clock: ^0.0.1
+
+flutter:
+  # render using material design
+  uses-material-design: true
