@@ -1,0 +1,19 @@
+name: flags
+description: A simple flags app build using Flutter.
+version: 1.0.0+1
+author: James Leahy <defuncart@gmail.com>
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  # Render using material design
+  uses-material-design: true
+  # Specify all assets used
+  assets:
+    - assets/database/countries.json
+    - assets/flags/
