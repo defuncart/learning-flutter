@@ -4,6 +4,7 @@ A collection of quick projects I've completed while learning Flutter.
 
 <table>
     <tr>
+        <td align=center><a href="slack_onboarding"><img src="slack_onboarding/_screenshots/01.gif" /></br>slack_onboarding</a></td>
         <td align=center><a href="flags"><img src="flags/screenshots/01.gif" /></br>flags</a></td>
     </tr>
     <tr>
