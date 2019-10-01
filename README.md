@@ -4,6 +4,7 @@ A collection of quick projects I've completed while learning Flutter.
 
 <table>
     <tr>
+        <td align=center><a href="github_job"><img src="github_job/_screenshots/01.gif" /></br>github_job</a></td>
         <td align=center><a href="hacker_news"><img src="hacker_news/_screenshots/01.gif" /></br>hacker_news</a></td>
     </tr>
     <tr>
