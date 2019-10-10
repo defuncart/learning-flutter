@@ -4,6 +4,7 @@ A collection of quick projects I've completed while learning Flutter.
 
 <table>
     <tr>
+        <td align=center><a href="currency_converter"><img src="currency_converter/_screenshots/01.gif" /></br>currency_converter</a></td>
         <td align=center><a href="shogi_castles"><img src="shogi_castles/_screenshots/01.gif" /></br>shogi_castles</a></td>
     </tr>
     <tr>

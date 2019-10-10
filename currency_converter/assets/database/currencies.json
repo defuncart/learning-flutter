@@ -1,0 +1,162 @@
+[
+    {
+        "code": "EUR",
+        "name": "Euro",
+        "image": "eu"
+    },
+    {
+        "code": "GBP",
+        "name": "Pound sterling",
+        "image": "gb"
+    },
+    {
+        "code": "USD",
+        "name": "United States Dollar",
+        "image": "us"
+    },
+    {
+        "code": "JPY",
+        "name": "Japanese Yen",
+        "image": "jp"
+    },
+    {
+        "code": "RUB",
+        "name": "Russian Ruble",
+        "image": "ru"
+    },
+    {
+        "code": "CHF",
+        "name": "Swiss Franc",
+        "image": "ch"
+    },
+    {
+        "code": "PLN",
+        "name": "Polish Złoty",
+        "image": "pl"
+    },
+    {
+        "code": "TRY",
+        "name": "Turkish lira",
+        "image": "tr"
+    },
+    {
+        "code": "SEK",
+        "name": "Swedish Krona",
+        "image": "se"
+    },
+    {
+        "code": "DKK",
+        "name": "Danish Krone",
+        "image": "dk"
+    },
+    {
+        "code": "CZK",
+        "name": "Czech Koruna",
+        "image": "cz"
+    },
+    {
+        "code": "HUF",
+        "name": "Hungarian Forint",
+        "image": "hu"
+    },
+    {
+        "code": "HRK",
+        "name": "Croatian Kuna",
+        "image": "hr"
+    },
+    {
+        "code": "BGN",
+        "name": "Bulgarian Lev",
+        "image": "bg"
+    },
+    {
+        "code": "RON",
+        "name": "Romanian Leu",
+        "image": "ro"
+    },
+    {
+        "code": "NOK",
+        "name": "Norwegian Krone",
+        "image": "no"
+    },
+    {
+        "code": "ISK",
+        "name": "Icelandic Króna",
+        "image": "is"
+    },
+    {
+        "code": "AUD",
+        "name": "Australian Dollar",
+        "image": "au"
+    },
+    {
+        "code": "CAD",
+        "name": "Canadian Dollar",
+        "image": "ca"
+    },
+    {
+        "code": "CNY",
+        "name": "Chinese Yuan",
+        "image": "cn"
+    },
+    {
+        "code": "MXN",
+        "name": "Mexican Peso",
+        "image": "mx"
+    },
+    {
+        "code": "NZD",
+        "name": "New Zealand Dollar",
+        "image": "nz"
+    },
+    {
+        "code": "SGD",
+        "name": "Singapore Dollar",
+        "image": "sg"
+    },
+    {
+        "code": "HKD",
+        "name": "Hong Kong Dollar",
+        "image": "hk"
+    },
+    {
+        "code": "KRW",
+        "name": "South Korean won",
+        "image": "kr"
+    },
+    {
+        "code": "INR",
+        "name": "Indian Rupee",
+        "image": "in"
+    },
+    {
+        "code": "BRL",
+        "name": "Brazilian Real",
+        "image": "br"
+    },
+    {
+        "code": "ZAR",
+        "name": "South African Rand",
+        "image": "za"
+    },
+    {
+        "code": "THB",
+        "name": "Thai Baht",
+        "image": "th"
+    },
+    {
+        "code": "IDR",
+        "name": "Indonesian Rupiah",
+        "image": "id"
+    },
+    {
+        "code": "MYR",
+        "name": "Malaysian Ringgit",
+        "image": "my"
+    },
+    {
+        "code": "ILS",
+        "name": "Israeli New Shekel",
+        "image": "il"
+    }
+]
